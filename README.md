@@ -9,4 +9,4 @@ PLAY INTSTRUCTIONS:
 2. Use Left Hand Trigger to teleport.
 3. Use Right Hand Grip to pick up objects.
 
-Screencast of maze:
+Screencast of maze: https://youtube.com/shorts/tLrKq3Xvwd8?feature=share
